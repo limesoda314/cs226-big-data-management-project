@@ -1,0 +1,12 @@
+/* src/styles/ShowcaseSection.css */
+.showcase-section {
+    padding: 4rem;
+    background-color: #eaeaea;
+  }
+  .showcase-section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  

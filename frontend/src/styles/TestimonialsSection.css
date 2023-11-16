@@ -1,0 +1,19 @@
+/* src/styles/TestimonialsSection.css */
+.testimonials-section {
+    padding: 4rem;
+    background-color: #fff;
+  }
+  .testimonials-section blockquote {
+    quotes: "“" "”" "‘" "’";
+  }
+  .testimonials-section blockquote:before {
+    content: open-quote;
+  }
+  .testimonials-section blockquote:after {
+    content: close-quote;
+  }
+  .testimonials-section footer {
+    margin-top: 1rem;
+    text-align: right;
+  }
+  

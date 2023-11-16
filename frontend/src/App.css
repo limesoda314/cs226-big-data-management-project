@@ -1,0 +1,26 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  margin: 15px;
+  padding: 15px;
+}
+
+footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}

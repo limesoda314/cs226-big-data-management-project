@@ -1,0 +1,13 @@
+/* src/styles/FeaturesSection.css */
+.features-section {
+    padding: 4rem;
+    background-color: #f0f0f0;
+  }
+  .features-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  .features-section li {
+    margin-bottom: 1rem;
+  }
+  
